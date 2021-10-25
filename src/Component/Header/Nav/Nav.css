@@ -1,0 +1,8 @@
+.ex2 {
+    display: contents;
+
+}
+.ex2 p:hover,
+a.ex2:active {
+    color: rgb(209, 209, 178);
+}
